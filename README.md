@@ -9,9 +9,9 @@
 
 ### The number of votes and the proportion of total votes cast in each county are broken down below:
 
->Jefferson: 10.5%- 38,855 Votes
->Denver: 82.8%- 306,055 votes
->Arapahoe: 6.7%- 24,801 votes
+>1. Jefferson: 10.5%- 38,855 Votes
+>2. Denver: 82.8%- 306,055 votes
+>3. Arapahoe: 6.7%- 24,801 votes
 
 ### The contenders were:
 
