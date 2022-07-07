@@ -9,9 +9,9 @@
 
 ### The number of votes and the proportion of total votes cast in each county are broken down below:
 
-> -Jefferson: 10.5%- 38,855 Votes
-> -Denver: 82.8%- 306,055 votes
-> -Arapahoe: 6.7%- 24,801 votes
+> - Jefferson: 10.5%- 38,855 Votes
+> - Denver: 82.8%- 306,055 votes
+> - Arapahoe: 6.7%- 24,801 votes
 
 ### The contenders were:
 
@@ -21,9 +21,9 @@
 
 ### The outcomes were:
 
-> -With 85,213 votes, Charles Casper Stockham received 23% of the vote.
-> -With 272,892 votes, Diana DeGette earned 73.8% of the vote.
-> -With 11,606 votes and 3.1% of the vote went to Raymon Anthony Doane.
+> - With 85,213 votes, Charles Casper Stockham received 23% of the vote.
+> - With 272,892 votes, Diana DeGette earned 73.8% of the vote.
+> - With 11,606 votes and 3.1% of the vote went to Raymon Anthony Doane.
 
 ### The following candidate won the election:
 
