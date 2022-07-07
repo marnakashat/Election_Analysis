@@ -7,13 +7,13 @@
 ## Election Audit Results
 >The election received a total of 369,711 votes.
 
->#The number of votes and the proportion of total votes cast in each county are broken down below:
+#The number of votes and the proportion of total votes cast in each county are broken down below:
 
 >Jefferson: 10.5%- 38,855 Votes
 >Denver: 82.8%- 306,055 votes
 >Arapahoe: 6.7%- 24,801 votes
 
->#The contenders were:
+#The contenders were:
 
 >1. Casper Charles Stockham
 >2. DeGette Raymon
