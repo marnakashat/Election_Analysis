@@ -7,13 +7,13 @@
 ## Election Audit Results
 >The election received a total of 369,711 votes.
 
-#The number of votes and the proportion of total votes cast in each county are broken down below:
+### The number of votes and the proportion of total votes cast in each county are broken down below:
 
 >Jefferson: 10.5%- 38,855 Votes
 >Denver: 82.8%- 306,055 votes
 >Arapahoe: 6.7%- 24,801 votes
 
-#The contenders were:
+### The contenders were:
 
 >1. Casper Charles Stockham
 >2. DeGette Raymon
@@ -29,8 +29,9 @@
 
 >Diana DeGette won with 272,892 votes and 73.8% of the vote.
 
-##Here is a screenshot of the outcomes:
+### Here is a screenshot of the outcomes:
+
 <img width="284" alt="Election_Results" src="https://user-images.githubusercontent.com/107198518/177674982-33740d7c-b723-46db-a4f3-3e4c321f0e35.png">
 
-### Election Audit Summary
+## Election Audit Summary
 Local and Senate Elections can both be held using this script. By just altering the county of the districts, the script may be modified and used to examine other Congressional Elections.
