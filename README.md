@@ -1,5 +1,5 @@
 # Election Analysis
->Utilizing Python's to automate the counting of votes for a municipal election.
+Utilizing Python's to automate the counting of votes for a municipal election.
 
 ## Project Overview
 >We will help Tom, an employee of the Colorado board of elections, conduct an election audit for a nearby congressional election. The election's winner is determined by the percentage of votes cast for each candidate, as well as the total number of votes cast, the list of candidates who received votes, the total number of votes each candidate received, and the percentage of votes cast for each candidate. The results are shown below.
